@@ -27,11 +27,11 @@ Contacto (contact.html): Es una página que contiene únicamente un formulario d
 5. **Despliegue:** Se subió el repositorio a GitHub y se activó GitHub Pages.
 
 ## Capturas de Pantalla
-<img width="1920" height="1200" alt="Parte_6" src="https://github.com/user-attachments/assets/cd04460f-5ae1-425f-a682-719e8b8ffd80" />
-<img width="1920" height="1200" alt="Parte_7" src="https://github.com/user-attachments/assets/7402f1f6-ffa5-49b8-bef2-6b3d850cbefa" />
-<img width="1920" height="1200" alt="Parte_8" src="https://github.com/user-attachments/assets/10032657-4ea8-4153-9fd7-c724ec379f4f" />
-<img width="1920" height="1200" alt="Parte_9" src="https://github.com/user-attachments/assets/7ede10c2-6b87-4602-8ba7-a79fee615358" />
-<img width="1920" height="1200" alt="Parte_10" src="https://github.com/user-attachments/assets/bdaf046b-f777-4056-bbd6-200fb8760940" />
-<img width="1920" height="1200" alt="Parte_11" src="https://github.com/user-attachments/assets/905f421f-df45-4728-bca4-34c33321d2c0" />
-<img width="1920" height="1200" alt="Parte_12" src="https://github.com/user-attachments/assets/ea1c4277-bfc2-4832-bf40-2664f19036eb" />
-
+<img width="1916" height="1092" alt="11" src="https://github.com/user-attachments/assets/9f4ff62d-5336-4cbf-8f59-c577bbabbc21" />
+<img width="1917" height="1086" alt="12" src="https://github.com/user-attachments/assets/6cb1b314-8ad6-418f-bc90-d2594f139e83" />
+<img width="1917" height="1087" alt="13" src="https://github.com/user-attachments/assets/93fbdac3-36dd-4410-9a01-0d927feb782a" />
+<img width="1917" height="1087" alt="14" src="https://github.com/user-attachments/assets/4779cdd1-5ec0-4db1-a07d-5d701bee3cb7" />
+<img width="1917" height="1095" alt="15" src="https://github.com/user-attachments/assets/3d357c9d-a254-4461-a525-5445dab4629d" />
+<img width="1917" height="1090" alt="16" src="https://github.com/user-attachments/assets/f7c7a89b-b25d-4be3-a221-dbd75b19603b" />
+<img width="1917" height="1091" alt="17" src="https://github.com/user-attachments/assets/630b9016-3354-4727-a504-ad767fc71fae" />
+<img width="1920" height="1200" alt="18" src="https://github.com/user-attachments/assets/f22498d2-fd4d-4cbe-9908-fa6d145e86e4" />
