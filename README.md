@@ -16,7 +16,7 @@ El portafolio consta de una varias páginas dividida en las siguientes secciones
 * **Proyectos:** Galería de proyectos académicos y personales desarrollados.
 * **Contacto:** Formulario/enlaces a redes profesionales (GitHub, LinkedIn).
 
-## Proceso de Creación
+## Apartados
 Inicio (index.html): Es la página de bienvenida de la plantilla. Contiene un encabezado principal con espacio para una foto de perfil y un texto introductorio, además de una sección breve de "Sobre mí" y enlaces a redes sociales.
 
 Resumen (resume.html): Es una página estructurada como un currículum tradicional. Incluye bloques diseñados para listar la experiencia laboral, el historial educativo, y secciones específicas para destacar habilidades profesionales y lenguajes.
