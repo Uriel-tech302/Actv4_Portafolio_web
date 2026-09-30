@@ -17,10 +17,13 @@ El portafolio consta de una varias páginas dividida en las siguientes secciones
 * **Contacto:** Formulario/enlaces a redes profesionales (GitHub, LinkedIn).
 
 ## Proceso de Creación
-1. **Selección de Plantilla:** Se eligió una plantilla base de [Bootstrap/Tailwind] y se descargó el código fuente.
-2. **Estructuración:** Se organizaron las carpetas según los requisitos (css, js, img) y se extrajeron los archivos relevantes de la plantilla.
-3. **Personalización:** Se modificó el `index.html` para incluir mis datos reales, se agregó una fotografía formal y se actualizaron las secciones de Skills y Proyectos con tecnologías de mi perfil.
-4. **Ajustes de Estilo:** Se vinculó el archivo `css/portafolio.css` y `js/portafolio.js` personalizados para modificaciones menores fuera de la plantilla original.
+Inicio (index.html): Es la página de bienvenida de la plantilla. Contiene un encabezado principal con espacio para una foto de perfil y un texto introductorio, además de una sección breve de "Sobre mí" y enlaces a redes sociales.
+
+Resumen (resume.html): Es una página estructurada como un currículum tradicional. Incluye bloques diseñados para listar la experiencia laboral, el historial educativo, y secciones específicas para destacar habilidades profesionales y lenguajes.
+
+Proyectos (projects.html): Es la sección del portafolio diseñada para exhibir trabajos. Utiliza un formato de tarjetas grandes que permiten colocar una imagen de muestra, el título del proyecto y una descripción breve.
+
+Contacto (contact.html): Es una página que contiene únicamente un formulario de contacto limpio, con campos predefinidos para nombre, correo, teléfono y el cuerpo del mensaje.
 5. **Despliegue:** Se subió el repositorio a GitHub y se activó GitHub Pages.
 
 ## Capturas de Pantalla
